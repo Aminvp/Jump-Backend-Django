@@ -1,0 +1,58 @@
+[
+    {
+       "model":"library_management.book",
+       "pk":1,
+       "fields":{
+          "title":"Book",
+          "genre":"Fiction"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":2,
+       "fields":{
+          "title":"The Book",
+          "genre":"Adventure"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":3,
+       "fields":{
+          "title":"The Catcher in the Rye",
+          "genre":"Fiction"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":4,
+       "fields":{
+          "title":"1984",
+          "genre":"Dystopian"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":5,
+       "fields":{
+          "title":"To Kill a Mockingbird",
+          "genre":"Fiction"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":6,
+       "fields":{
+          "title":"Then Mobidic",
+          "genre":"Fiction"
+       }
+    },
+    {
+       "model":"library_management.book",
+       "pk":7,
+       "fields":{
+          "title":"The man in the street",
+          "genre":"Fiction"
+       }
+    }
+ ]
